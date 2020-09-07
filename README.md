@@ -1,1 +1,1 @@
-Solutions for simple Object-Oriented Programming (OOP) exercises, solved as part of the course "SSC0103 - Object-Oriented Programming" (https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0103&codcur=55041&codhab=0).
+Solutions for simple Object-Oriented Programming (OOP) exercises, solved as part of the course ["SSC0103 - Object-Oriented Programming"] (https://uspdigital.usp.br/jupiterweb/obterDisciplina?sgldis=SSC0103&codcur=55041&codhab=0).
